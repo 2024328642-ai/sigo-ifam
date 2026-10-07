@@ -1,0 +1,10 @@
+{
+  "description": "Streamlines school disciplinary management by enabling staff to record, monitor, and act on student incidents with integrated social support tracking.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
