@@ -1,4 +1,4 @@
-# SIGO — Gestão de Ocorrências (IFAM)
+<h> SIGO — Gestão de Ocorrências (IFAM) <h>
 
 Sistema web (instalável no celular) para registrar e acompanhar ocorrências de alunos do Instituto Federal: atraso (tolerância de 15 min) e falta de item do uniforme (camisa, calça preta, calçado fechado). Substitui a ficha manual. Segue as Resoluções nº 57 e nº 94 da instituição (a regra exata de contagem e de penalidade deve ser confirmada nelas, não presumida pelo código).
 
